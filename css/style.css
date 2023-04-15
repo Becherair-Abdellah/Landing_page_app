@@ -432,7 +432,7 @@ input[type=number] {
     justify-content: center;
     align-items: center;
     gap: 2rem;
-    margin-bottom: 2rem;
+    margin-bottom: 2.2rem;
 }
 .footer .social-media a{
     color: white;
